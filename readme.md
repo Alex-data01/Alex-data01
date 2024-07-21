@@ -3,7 +3,6 @@
 	<br>
 	<br>
 </div>
-
     <h1>🤖 Welcome to My Neural Network Hub! 🤖</h1>
     <p><strong>🌟 Exploring the infinite potential of neural networks and AI. 🌟</strong></p>
     <ul>
