@@ -1,1 +1,5 @@
-![Neural Network Gif]((https://github.com/Alex-data01/Alex-data01/blob/main/welcome-header.gif))
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
