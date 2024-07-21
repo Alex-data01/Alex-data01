@@ -1,7 +1,9 @@
 <div align="center">
-    <img src="path/to/your-gif.gif" alt="Welcome to my GitHub profile">
-    <br>
-    <br>
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
     <h1>🤖 Welcome to My Neural Network Hub! 🤖</h1>
     <p><strong>🌟 Exploring the infinite potential of neural networks and AI. 🌟</strong></p>
     <ul>
