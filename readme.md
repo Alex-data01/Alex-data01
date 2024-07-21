@@ -1,17 +1,13 @@
 <div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
-</div>
-    <h1>🤖 Welcome to My Neural Network Hub! 🤖</h1>
-    <p><strong>🌟 Exploring the infinite potential of neural networks and AI. 🌟</strong></p>
-    <ul>
-        <li>🔍 <strong>Current Focus:</strong> Deep Learning, NLP, and Computer Vision.</li>
-        <li>🌱 <strong>Learning:</strong> Advanced GANs, Reinforcement Learning.</li>
-        <li>💡 <strong>Projects:</strong> AI-driven chatbots, Image recognition systems, and more.</li>
-        <li>📫 <strong>Connect:</strong> <a href="https://www.linkedin.com">LinkedIn</a> | <a href="https://www.twitter.com">Twitter</a> | <a href="https://www.yourblog.com">Blog</a></li>
-    </ul>
+    <img src="welcome-header.gif" alt="welcome to my github profile">
     <br>
-    <h2>🧠 Let's Push the Boundaries of AI Together! 🧠</h2>
-    <img src="path/to/another-gif.gif" alt="AI Gif">
+    <br>
+    <h1>🤖 Добро пожаловать в мой мир нейронных сетей! 🤖</h1>
+    <p><strong>🌟 Исследуем бесконечные возможности нейронных сетей и ИИ. 🌟</strong></p>
+    <p>🔍 <strong>Текущий фокус:</strong> Глубокое обучение, НЛП и компьютерное зрение.</p>
+    <p>🌱 <strong>Изучаю:</strong> Продвинутые GANs, обучение с подкреплением.</p>
+    <p>💡 <strong>Проекты:</strong> Чат-боты на базе ИИ, системы распознавания изображений и многое другое.</p>
+    <p>📫 <strong>Связаться:</strong> <a href="https://t.me/Alexandr_Bakaev">Telegram</a> | <strong>eMail:</strong> bakaevalexander@yandex.ru</p>
+    <br>
+    <h2>🧠 Давайте вместе расширим границы ИИ! 🧠</h2>
 </div>
